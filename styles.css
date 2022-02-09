@@ -1,0 +1,19 @@
+body{
+  background-color:#D3DEDC;
+}
+hr{
+  border-color:grey;
+  border-width:5px;
+  border-style:none;
+  border-top-style:dotted;
+  width:7%;
+}
+image{
+  height:50px;
+}
+h1{
+  color:purple;
+}
+h3{
+  color: #FF6464;
+}
